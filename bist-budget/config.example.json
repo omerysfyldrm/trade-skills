@@ -1,0 +1,12 @@
+{
+  "account_tl": 2000,
+  "max_loss_tl": 40,
+  "daily_loss_limit_tl": 80,
+  "max_trades_per_day": 3,
+  "min_rr": 1.5,
+  "position_cap_pct": 60,
+  "cash_buffer_pct": 10,
+  "max_order_tl": 0,
+  "fractional": true,
+  "entry_window": ["10:00", "13:00"]
+}
